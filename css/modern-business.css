@@ -1,0 +1,108 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+  /*footer*/
+  .col_white_amrc { color:white;}
+  footer { width:100%; background-color: #2B62AE ; min-height:250px; padding:10px 0px 25px 0px ;}
+  .pt2 { padding-top:40px ; margin-bottom:20px ;}
+  footer p { font-size:13px; color:white; padding-bottom:0px; margin-bottom:8px;}
+  .mb10 { padding-bottom:15px ;}
+  .footer_ul_amrc { margin:0px ; list-style-type:none ; font-size:14px; padding:0px 0px 10px 0px ; }
+  .footer_ul_amrc li {padding:0px 0px 5px 0px;}
+  .footer_ul_amrc li a{ color:white;}
+  .footer_ul_amrc li a:hover{ color:#fff; text-decoration:none;}
+  .fleft { float:left;}
+  .padding-right { padding-right:10px; }
+  
+  .footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+  .footer_ul2_amrc li p { display:table; }
+  .footer_ul2_amrc li a:hover { text-decoration:none;}
+  .footer_ul2_amrc li i { margin-top:5px;}
+  
+  .bottom_border { border-bottom:4px solid #F08521; padding-bottom:20px;}
+  .foote_bottom_ul_amrc {
+    list-style-type:none;
+    padding:0px;
+    display:table;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+  }
+  .foote_bottom_ul_amrc li { display:inline;}
+  .foote_bottom_ul_amrc li a { color:white; margin:0 12px;}
+  
+  .social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+  .social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+  .social_footer_ul li a { color:white; border:1px solid white; padding:8px;border-radius:50%;}
+  .social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+  .top_bar { min-height:40px; /* 
+    
+    
+    background: #30bed6; /* Old browsers */
+    background: -moz-linear-gradient(left, #30bed6 0%, #38cac9 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #30bed6 0%,#38cac9 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #30bed6 0%,#38cac9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30bed6', endColorstr='#38cac9',GradientType=1 ); /* IE6-9 */}
+    
+   
+    .rightc { list-style-type:none; margin-bottom:0px; float:right;}
+    .rightc li { margin:0px 10px; font-size:13px; float:left; line-height:40px; color:#FFF;}
+    .rightc li a {   color:#FFF; }
+    
+    .navbar-brand img { margin-top:0px; margin-left:0px;}
+    .navbar-brand {padding:0px;}
+    
+    .header_image { margin-top:-70px; float:left;}
+    .nav.navbar-nav.navbar-right span {font-family: 'Open Sans', sans-serif; font-style:italic; font-weight:300; color:#1b6977;}
+    .navbar-right li a {font-family: 'Open Sans', sans-serif; font-size:16px; color:#2B62AE !important;}
+    
+.fa-facebook,.fa-google-plus {
+   cursor: pointer;
+}
+.btn-primary{
+  background-color: #2B62AE;
+}
+.btn-primary:hover{
+  background-color:#F08521;
+}
+.breadcrumb{
+  background-color:#ffe0b2;
+  opacity: 0.9; 
+}
+.header{
+ margin-left: 150px;
+ margin-top: 20px; 
+ margin-bottom: 20px;
+}
+.fa-facebook{
+  color:black;
+}
+.fa-google-plus{
+  color:black;
+}
+a:hover, a:active {font-size: 120%;
+}
+
+
+
+
+
